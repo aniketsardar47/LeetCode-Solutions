@@ -1,3 +1,4 @@
+#include<bits/stdc++.h>
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
@@ -8,7 +9,7 @@ public:
                 
                 nums[i] = nums[k-1];
                 k--;
-            }else{
+            }else{  
                 i++;
             } 
             
