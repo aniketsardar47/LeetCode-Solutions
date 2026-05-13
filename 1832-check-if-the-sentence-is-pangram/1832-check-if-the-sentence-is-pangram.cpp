@@ -1,11 +1,16 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        map<char,int> mp;
+        vector<int> arr(26,0);
+    
         for(auto ch: sentence){
-            mp[ch]++;
+            arr[ch-'a'] = 1;
+        }
+        for(int i=0;i<26;i++){
+            if(arr[i] == 0)
+                return false;
         }
 
-        return mp.size() == 26;
+        return true;
     }
 };
