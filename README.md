@@ -32,4 +32,12 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
