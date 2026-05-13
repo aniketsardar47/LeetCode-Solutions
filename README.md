@@ -40,4 +40,9 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
