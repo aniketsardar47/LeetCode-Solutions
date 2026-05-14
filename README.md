@@ -24,6 +24,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [0038-count-and-say](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
