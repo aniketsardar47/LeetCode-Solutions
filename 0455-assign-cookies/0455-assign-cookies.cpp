@@ -16,18 +16,8 @@ public:
                 l++;
                 r++;
             }else{
-                while(r<m){
-                    if(s[r] >= g[l]){
-                        count++;
-                        r++;
-                        l++;
-                        break;
-                    }
-                    r++;
-                }
+               r++;
             }
-
-
         }
 
         return count;
