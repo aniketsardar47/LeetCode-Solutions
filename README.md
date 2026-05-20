@@ -44,6 +44,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [0038-count-and-say](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1544-make-the-string-great](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
@@ -58,4 +59,8 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
