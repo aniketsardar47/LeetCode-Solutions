@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void get_permutations(vector<vector<int>> &ans,int ind,vector<int> nums){
+    void get_permutations(vector<vector<int>> &ans,int ind,vector<int> &nums){
         if(ind == nums.size()){
             ans.push_back(nums);
             return;
