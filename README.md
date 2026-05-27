@@ -23,6 +23,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -71,4 +72,8 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
