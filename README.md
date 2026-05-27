@@ -63,4 +63,12 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [1544-make-the-string-great](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
