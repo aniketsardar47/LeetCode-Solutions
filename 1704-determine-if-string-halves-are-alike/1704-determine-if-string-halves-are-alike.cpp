@@ -6,18 +6,15 @@ public:
     }
     bool halvesAreAlike(string s) {
         int count = 0;
-
-        for(int i=0;i<s.size()/2;i++){
-            if(isvowel(s[i])){
-                count++;
-            }
+        int mid = s.size()/2;
+        int i=0;
+        int j=mid;
+        while(i<mid && j<s.size()){
+            if(isvowel(s[i])){count++;}
+            if(isvowel(s[j])){count--;}
+            i++;j++;
         }
-        cout<<s.size()/2<<endl;
-        for(int i=(s.size()/2);i<s.size();i++){
-            if(isvowel(s[i])){
-                count--;
-            }
-        }
+        
 
         cout<<count<<endl;
         return count == 0;
