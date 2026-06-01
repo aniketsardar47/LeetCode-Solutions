@@ -29,6 +29,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0118-pascals-triangle](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0038-count-and-say](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0944-delete-columns-to-make-sorted](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
