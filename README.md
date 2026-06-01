@@ -25,6 +25,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [0039-combination-sum](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -38,6 +39,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
@@ -60,6 +62,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
