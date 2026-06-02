@@ -29,6 +29,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0118-pascals-triangle](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -77,6 +78,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 ## Stack
 |  |
@@ -107,4 +109,28 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
