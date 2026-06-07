@@ -55,6 +55,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0038-count-and-say](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
@@ -133,4 +134,8 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
