@@ -37,6 +37,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -46,6 +47,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## String
@@ -54,6 +56,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0093-restore-ip-addresses](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [0392-is-subsequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0520-detect-capital) |
