@@ -92,10 +92,12 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -141,4 +143,8 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
