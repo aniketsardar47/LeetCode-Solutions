@@ -96,6 +96,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -147,4 +148,8 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
