@@ -94,6 +94,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
@@ -151,6 +153,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
 | ------- |
