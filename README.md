@@ -32,6 +32,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0912-sort-an-array](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -101,6 +103,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0021-merge-two-sorted-lists](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -161,5 +164,10 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
