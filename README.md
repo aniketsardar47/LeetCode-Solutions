@@ -93,6 +93,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -113,6 +114,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 ## Enumeration
 |  |
@@ -154,6 +156,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
