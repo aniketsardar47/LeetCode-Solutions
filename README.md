@@ -23,6 +23,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -70,6 +71,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
