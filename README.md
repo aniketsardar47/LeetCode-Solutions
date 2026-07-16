@@ -35,6 +35,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3663-find-the-least-frequent-digit](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3307-find-the-k-th-character-in-string-game-ii](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3307-find-the-k-th-character-in-string-game-ii) |
+| [3663-find-the-least-frequent-digit](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +130,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [3663-find-the-least-frequent-digit](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
