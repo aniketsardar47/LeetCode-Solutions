@@ -34,6 +34,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0944-delete-columns-to-make-sorted](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1980-find-unique-binary-string](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0073-set-matrix-zeroes](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Greedy
@@ -121,6 +124,7 @@ Here is The Leet Code Problem Solutions Based on Topics
 | [0046-permutations](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
+| [1980-find-unique-binary-string](https://github.com/aniketsardar47/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Enumeration
 |  |
 | ------- |
